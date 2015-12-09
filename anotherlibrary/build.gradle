@@ -31,9 +31,6 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.1'
 
-    compile group: 'com.google.dagger', name: 'dagger', version: '2.0.2'
-    compile group: 'com.google.dagger', name: 'dagger-compiler', version: '2.0.2'
-
     // Android Testing Support Library's runner and rules
     androidTestCompile group: 'com.android.support.test', name: 'runner', version: '0.4.1'
 }
