@@ -1,4 +1,4 @@
-# mashmallow-testing
+# marshmallow-testing
 
 Dagger 2 appears to break Android testing with the AndroidJUnitRunner. This repo consists of bare bones app and 2 Android libraries that have the same setup in an effort to figure out what the heck the difference is and how I can get it fixed.
 
